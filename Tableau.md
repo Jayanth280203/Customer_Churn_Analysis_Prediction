@@ -12,15 +12,15 @@ Access the Tableau Public dashboard here:
 
 *The Tableau report provides:*
 
-Churn Risk Distribution
+✔️Churn Risk Distribution
 
-Customer Segmentation by Risk Level
+✔️Customer Segmentation by Risk Level
 
-Feature Impact Summary (Drivers of Churn)
+✔️Feature Impact Summary (Drivers of Churn)
 
-Demographic & Behavioural Filters (Age, Tenure, Spend, Support Calls, etc.)
+✔️Demographic & Behavioural Filters (Age, Tenure, Spend, Support Calls, etc.)
 
-Customer-Level Probability Scores
+✔️Customer-Level Probability Scores
 
 Users can explore the data interactively to identify high-risk customers and evaluate churn triggers.
 
@@ -28,11 +28,11 @@ Users can explore the data interactively to identify high-risk customers and eva
 
 *The dashboard is powered by churn_dashboard_data.csv, which contains:*
 
-Original synthetic customer features
+🔸Original synthetic customer features
 
-Model predictions
+🔸Model predictions
 
-Risk-level segmentation (Low, Medium, High)
+🔸Risk-level segmentation (Low, Medium, High)
 
 This enriched dataset is generated through churn_analysis.py.
 
@@ -40,10 +40,10 @@ This enriched dataset is generated through churn_analysis.py.
 
 *The dashboard helps companies:*
 
-Prioritize high-risk customer retention
+🔹Prioritize high-risk customer retention
 
-Design targeted loyalty or discount programs
+🔹Design targeted loyalty or discount programs
 
-Improve support services and billing processes
+🔹Improve support services and billing processes
 
 Monitor churn trends over time
