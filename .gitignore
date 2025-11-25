@@ -1,0 +1,40 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# Virtual Environment
+venv/
+env/
+ENV/
+
+# IDEs
+.vscode/
+.idea/
+
+# Tableau
+*.twb
+# Keep .twbx as it is the packaged workbook we want to share, unless it contains sensitive data. 
+# If you don't want to share the dashboard file, uncomment the line below:
+# *.twbx
+
+# Large Data Files (Optional: Uncomment if you don't want to upload data)
+# *.csv
