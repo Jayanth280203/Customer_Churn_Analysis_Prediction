@@ -1,4 +1,4 @@
-## Customer Churn Analysis & Prediction – Tableau Dashboard
+# Customer Churn Analysis & Prediction – Tableau Dashboard
 
 This interactive dashboard visualizes the outputs generated from the Churn Analysis & Prediction project. It highlights churn risk segments, customer behavior insights, and the key drivers influencing churn. The dashboard is suitable for data-driven decision-making in subscription or service-based businesses.
 
