@@ -1,4 +1,4 @@
-# Churn Analysis & Prediction
+#Customer Churn Analysi
 
 This project provides a complete workflow for analyzing and predicting customer churn. It includes tools for generating synthetic data, training a machine learning model, and exporting results for further analysis or dashboarding.
 
